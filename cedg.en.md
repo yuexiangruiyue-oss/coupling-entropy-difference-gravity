@@ -3,6 +3,7 @@
 **Yue Xiangrui (岳祥瑞)** — Independent Researcher
 2026 · Rewritten and formally reconstructed edition (v2) of the April 2026 preprint 《耦合熵差引力》
 
+**DOI:** [10.5281/zenodo.22081616](https://doi.org/10.5281/zenodo.22081616)
 ---
 
 ## Abstract

@@ -33,6 +33,8 @@ Equations and numbering are identical across the three editions.
 
 ## Citation
 
-> Yue Xiangrui, "Coupling Entropy Difference Gravity: An Emergent Quantum-Gravity Framework Reconciling General Relativity and Quantum Mechanics, with Cosmological Applications," preprint v2, 2026. CC BY-NC-SA 4.0.
+> Yue Xiangrui, "Coupling Entropy Difference Gravity: An Emergent Quantum-Gravity Framework Reconciling General Relativity and Quantum Mechanics, with Cosmological Applications," preprint v2, 2026. DOI: [10.5281/zenodo.22081616](https://doi.org/10.5281/zenodo.22081616). CC BY-NC-SA 4.0.
+
+**DOI:** [10.5281/zenodo.22081616](https://doi.org/10.5281/zenodo.22081616)
 
 Original concept © Yue Xiangrui, April 2026. License: **CC BY-NC-SA 4.0**.
