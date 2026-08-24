@@ -38,3 +38,14 @@ Equations and numbering are identical across the three editions.
 **DOI:** [10.5281/zenodo.22081616](https://doi.org/10.5281/zenodo.22081616)
 
 Original concept © Yue Xiangrui, April 2026. License: **CC BY-NC-SA 4.0**.
+## Contact
+
+- QQ: 406218898
+- WeChat: a13546076748
+- Google Email: yuexiangruiyue@gmail.com
+
+![wechat_qrcode](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/6GNsmhFg_Y2DZpR3ujYcG.png)
+
+![alipay_qrcode](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/0-LRrZ97UHDSNgYdum_kP.png)
+
+![欧易_1778716256597](https://cdn-uploads.huggingface.co/production/uploads/6a0e9ee7a09839c3245efb4d/RbH14JJPR6_CFTTpEKfYz.jpeg)
